@@ -1,0 +1,32 @@
+.first {
+    background-color: #004080;
+    color: white;
+}
+
+.icons-wrapper {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.icon {
+    margin: 10px;
+}
+.navigation{
+    background-color: #004080;
+    color: white;
+    justify-content: center;
+    align-items: center;
+}
+.Left{
+    display: flex;
+    flex-direction: row;
+    direction: rtl;
+}
+h4{
+    padding-left: 10px;
+    padding-right: 40px;
+    padding-top: 10px;
+}
+

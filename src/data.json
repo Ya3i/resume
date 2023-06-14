@@ -1,0 +1,85 @@
+{
+    "title" : "Hello, I'm Yasin Allahyari",
+    "subtitle" : "FullStack Dev | Graphic Desinger",
+    "links":{
+        "github" : "https://github.com/Ya3i",
+        "linkedin" : "https://www.linkedin.com/in/yasin-allahyari-724493232/",
+        "stackoverflow" : "https://stackoverflow.name/yasin-allahyari"
+    },
+    "sections":[
+        {
+            "title" : "About",
+            "items" : [
+                {
+                    "type" : "p",
+                    "content" : "I started with Windows programming, I went through all the fields, and finally I got to programming and web development, and this process took 2 years. Now I am a full-stack web developer who is proficient in html, css, bootstrap, php, Laravel, JavaScript, React and I am working hard to get somewhere!"
+                }
+            ]
+        },
+        {
+            "title" : "Skills",
+            "items" : [
+                {
+                    "type" : "card",
+                    "content" : {
+                        "image" : "images/react.png",
+                        "title" : "React"
+                    }
+                    
+                },
+                {
+                    "type" : "card",
+                    "content" : {
+                        "image" : "images/javascript.png",
+                        "title" : "JavaScripte"
+                    }
+                    
+                },
+                {
+                    "type" : "card",
+                    "content" : {
+                        "image" : "images/html.png",
+                        "title" : "Html"
+                    }
+                    
+                },
+                {
+                    "type" : "card",
+                    "content" : {
+                        "image" : "images/Csharp.png",
+                        "title" : "C#"
+                    }
+                    
+                },
+                {
+                    "type" : "card",
+                    "content" : {
+                        "image" : "images/css.png",
+                        "title" : "Css"
+                    }
+                    
+                },
+                {
+                    "type" : "card",
+                    "content" : {
+                        "image" : "images/php.png",
+                        "title" : "PHP"
+                    }
+                    
+                },
+                {
+                    "type": "card",
+                    "content": {
+                        "image": "images/python.png",
+                        "title": "Python"
+                    }
+                }
+            ]
+        }
+    ],
+    "icons": {
+        "down": "images/down.png",
+        "pencil" : "images/pencil.png"
+
+    }
+}
